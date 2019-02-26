@@ -3,3 +3,6 @@ Angular 2+ fully customizable components based on [D3.js](https://d3js.org/) lib
 
 # Graphs:
 - Bar: contains axis and represent data as a bar graph
+
+![alt text](https://github.com/jviaches/AngusElements/blob/master/BarChart.PNG)
+
